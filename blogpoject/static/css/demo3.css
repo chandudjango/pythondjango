@@ -1,0 +1,28 @@
+body{
+  background: red;
+  color: white;
+}
+.content {
+  width: 60%;
+  float: left;
+  background-color: blue;
+  padding-left: 30px;
+  font-style: italic;
+}
+.sidebar {
+  width: 40%;
+  float: right;
+  background-color: green;
+  padding-bottom: 20px;
+  text-align: center;
+
+}
+a{
+  background: yellow;
+  color: red;
+}
+#date{
+  font-size: 20px;
+  color: yellow;
+
+}
